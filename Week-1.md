@@ -29,3 +29,7 @@
 
 ![Alt text](static\image-13.png)
 
+ - Best Practices while creating Designs
+
+![Alt text](static\image.png)
+
